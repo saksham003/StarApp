@@ -1,0 +1,24 @@
+D:\Projects\Incedo\StarApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.deps.json
+D:\Projects\Incedo\StarApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.dll
+D:\Projects\Incedo\StarApp\StarApp.Core\bin\Debug\net6.0\ref\StarApp.Core.dll
+D:\Projects\Incedo\StarApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.pdb
+D:\Projects\Incedo\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.csproj.AssemblyReference.cache
+D:\Projects\Incedo\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Incedo\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.AssemblyInfoInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.AssemblyInfo.cs
+D:\Projects\Incedo\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.dll
+D:\Projects\Incedo\StarApp\StarApp.Core\obj\Debug\net6.0\ref\StarApp.Core.dll
+D:\Projects\Incedo\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.pdb
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.deps.json
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\bin\Debug\net6.0\ref\StarApp.Core.dll
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.AssemblyInfo.cs
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.dll
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\obj\Debug\net6.0\ref\StarApp.Core.dll
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.pdb

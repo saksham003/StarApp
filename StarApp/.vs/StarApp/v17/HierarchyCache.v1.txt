@@ -1,0 +1,327 @@
+﻿++Solution 'StarApp' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:StarApp.sln
+++StarApp.Infrastructure
+i:{00000000-0000-0000-0000-000000000000}:StarApp.Infrastructure
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\bin\debug\net6.0\starapp.infrastructure.dll
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\bin\debug\net6.0\starapp.infrastructure.dll
+++Dependencies
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:>860
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:>864
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:>861
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1011
+++Data
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\data\
+++Migrations
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\migrations\
+++Repository
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\repository\
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\repository\
+++AllowanceRepository.cs
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\repository\allowancerepository.cs
+++CompensationRepository.cs
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\repository\compensationrepository.cs
+++EmployeeRepository.cs
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\repository\employeerepository.cs
+++GenericRepository.cs
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\repository\genericrepository.cs
+++UnitOfWork.cs
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\repository\unitofwork.cs
+++Analyzers
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:analyzers
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:analyzers
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:analyzers
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:analyzers
+++Frameworks
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:frameworks
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:frameworks
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:frameworks
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:frameworks
+++Packages
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:packages
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:packages
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:packages
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:packages
+++Projects
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:projects
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:projects
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:projects
+++AppDbContext.cs
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\data\appdbcontext.cs
+++20220325055306_PostgresInitial.cs
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\migrations\20220325055306_postgresinitial.cs
+++AppDbContextModelSnapshot.cs
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\migrations\appdbcontextmodelsnapshot.cs
+++Microsoft.AspNetCore.App.Analyzers
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\microsoft.netcore.app
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.test\microsoft.netcore.app
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\microsoft.netcore.app
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:>1046
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1086
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:>1053
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1094
+++Npgsql.EntityFrameworkCore.PostgreSQL (6.0.2)
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:>1052
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1090
+++StarApp.Core
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\bin\debug\net6.0\starapp.core.dll
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\bin\debug\net6.0\starapp.core.dll
+i:{00000000-0000-0000-0000-000000000000}:StarApp.Core
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\bin\debug\net6.0\starapp.core.dll
+++20220325055306_PostgresInitial.Designer.cs
+i:{f947ec88-4a1a-4f02-8214-5cee9fa0e529}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.infrastructure\migrations\20220325055306_postgresinitial.designer.cs
+++StarApp.Test
+i:{00000000-0000-0000-0000-000000000000}:StarApp.Test
+++Api
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.test\api\
+++MockData
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.test\mockdata\
+++TestAllowanceController.cs
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.test\api\testallowancecontroller.cs
+++TestEmployeeController.cs
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.test\api\testemployeecontroller.cs
+++TestLoginController.cs
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.test\api\testlogincontroller.cs
+++TestRequestAccessController.cs
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.test\api\testrequestaccesscontroller.cs
+++AllowancePageMockData.cs
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.test\mockdata\allowancepagemockdata.cs
+++EmployeePageMockData.cs
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.test\mockdata\employeepagemockdata.cs
+++xunit.analyzers
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++coverlet.collector (3.1.0)
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:>1062
+++FluentAssertions (6.5.1)
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:>1050
+++Microsoft.AspNet.Mvc (5.2.7)
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:>1057
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:>1047
+++Moq (4.17.2)
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:>1060
+++xunit (2.4.1)
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:>1054
+++xunit.runner.visualstudio (2.4.3)
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:>1058
+++StarApp.Api
+i:{fd1aa71e-c1b7-4d50-9d66-5fe1a58b8cf1}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\bin\debug\net6.0\starapp.api.dll
+i:{00000000-0000-0000-0000-000000000000}:StarApp.Api
+++Domain
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\
+++Interfaces
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\
+++Services
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\services\
+++AllowanceService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\services\allowanceservice.cs
+++AuthService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\services\authservice.cs
+++EmployeeService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\services\employeeservice.cs
+++ExcelService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\services\excelservice.cs
+++TokenService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\services\tokenservice.cs
+++DTOs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\
+++Entities
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\entities\
+++Enums
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\enums\
+++Mapper
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\mapper\
+++Service
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\service\
+++CsvHelper (27.2.1)
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:>1059
+++EPPlus (5.8.6)
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:>1055
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:>1056
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1091
+++Microsoft.IdentityModel.Tokens (6.15.1)
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:>1061
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1093
+++System.IdentityModel.Tokens.Jwt (6.15.1)
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:>1051
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1088
+++AllowanceDtos
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\allowancedtos\
+++EmployeeDtos
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\employeedtos\
+++ExcelDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\exceldto.cs
+++Allowance.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\entities\allowance.cs
+++Compensation.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\entities\compensation.cs
+++Employee.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\entities\employee.cs
+++RolesEnum.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\enums\rolesenum.cs
+++StatusEnum.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\enums\statusenum.cs
+++IAllowanceRepository.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\repository\iallowancerepository.cs
+++ICompensationRepository.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\repository\icompensationrepository.cs
+++IEmployeeRepository.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\repository\iemployeerepository.cs
+++IGenericRepository.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\repository\igenericrepository.cs
+++IUnitOfWork.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\repository\iunitofwork.cs
+++IAllowanceService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\service\iallowanceservice.cs
+++IAuthService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\service\iauthservice.cs
+++IEmployeeService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\service\iemployeeservice.cs
+++IExcelService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\service\iexcelservice.cs
+++ITokenService.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\interfaces\service\itokenservice.cs
+++AllowanceDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\allowancedtos\allowancedto.cs
+++AllowanceFilter.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\allowancedtos\allowancefilter.cs
+++AllowancePageDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\allowancedtos\allowancepagedto.cs
+++CompensationDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\allowancedtos\compensationdto.cs
+++EmployeeDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\employeedtos\employeedto.cs
+++EmployeeFilter.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\employeedtos\employeefilter.cs
+++EmployeePageDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\employeedtos\employeepagedto.cs
+++EmployeePasswordDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\employeedtos\employeepassworddto.cs
+++GetEmployeesDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\employeedtos\getemployeesdto.cs
+++LoginDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\employeedtos\logindto.cs
+++PostEmployeesDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\employeedtos\postemployeesdto.cs
+++RequestAccessDto.cs
+i:{d5b83be0-c044-43cc-9c90-8a1f510e00f6}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.core\domain\dtos\employeedtos\requestaccessdto.cs
+++Connected Services 
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1012
+++Properties
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\properties\
+++wwwRoot
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\
+++Controllers
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\controllers\
+++AllowanceController.cs
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\controllers\allowancecontroller.cs
+++EmployeesController.cs
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\controllers\employeescontroller.cs
+++FallbackController.cs
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\controllers\fallbackcontroller.cs
+++LoginController.cs
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\controllers\logincontroller.cs
+++RequestAccessController.cs
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\controllers\requestaccesscontroller.cs
+++appsettings.json
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\appsettings.json
+++Program.cs
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\program.cs
+++No service dependencies discovered
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1013
+++launchSettings.json
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\properties\launchsettings.json
+++static
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\static\
+++Upload
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\upload\
+++asset-manifest.json
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\asset-manifest.json
+++favicon.ico
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\favicon.ico
+++index.html
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\index.html
+++logo192.png
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\logo192.png
+++logo512.png
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\logo512.png
+++manifest.json
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\manifest.json
+++robots.txt
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\robots.txt
+++star.png
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\star.png
+++appsettings.Development.json
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore.InMemory (6.0.2)
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1092
+++Swashbuckle.AspNetCore (6.2.3)
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:>1089
+++css
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\static\css\
+++js
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\static\js\
+++TestUpload.xlsx
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\upload\testupload.xlsx
+++TextExcelFIle.xlsx
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\upload\textexcelfile.xlsx
+++main.4191c556.css
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\static\css\main.4191c556.css
+++main.eab98a87.js
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\static\js\main.eab98a87.js
+++main.eab98a87.js.LICENSE.txt
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\static\js\main.eab98a87.js.license.txt
+++main.4191c556.css.map
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\static\css\main.4191c556.css.map
+++main.eab98a87.js.map
+i:{06af9d74-4ae2-4c2d-bfbe-a73a9e91294a}:c:\users\asus\desktop\lastest merged ui\starapp\starapp.api\wwwroot\static\js\main.eab98a87.js.map

@@ -1,0 +1,34 @@
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.deps.json
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\ref\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.pdb
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfo.cs
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CopyComplete
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\ref\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.pdb
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.runtimeconfig.json
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.genruntimeconfig.cache
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.deps.json
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.runtimeconfig.json
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\ref\StarApp.Infrastructure.dll
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfo.cs
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CopyComplete
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\ref\StarApp.Infrastructure.dll
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\asus\Desktop\lastest merged ui\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.genruntimeconfig.cache
